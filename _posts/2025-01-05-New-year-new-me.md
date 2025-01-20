@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Year new me?"
-categories: Posts
+categories: Blogging
 tags: [Linux, version control, servers, infrastructure, devops, leetcode, dsa, pipeline, system design, open source, books]
 image: assets/img/New-year-new-me/new-year-new-me.jpg
 ---

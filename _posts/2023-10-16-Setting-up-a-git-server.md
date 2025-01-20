@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up a git server"
-categories: Posts
+categories: [Blogging, Guides]
 tags: [Git, Linux, version control, servers, infrastructure]
 image: assets/img/Setting-up-a-git-server/GitServerBanner.png
 

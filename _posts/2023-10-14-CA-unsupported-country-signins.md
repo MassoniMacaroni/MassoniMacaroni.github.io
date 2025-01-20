@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Block unsupported countries with Conditional Access"
-categories: Posts
+categories: [Blogging, Guides]
 tags: [Entra Id, Conditional Access, Azure, Microsoft]
 image: assets/img/CA-unsupported-country-signins/CACountryBanner.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating your first pipleline"
-categories: Posts
+categories: [Blogging, Guides]
 tags: [Git, Linux, version control, servers, infrastructure, devops, jenkins, pipeline]
 ---
 
