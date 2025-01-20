@@ -3,7 +3,6 @@ layout: post
 title: "Creating your first pipleline"
 categories: Posts
 tags: [Git, Linux, version control, servers, infrastructure, devops, jenkins, pipeline]
-image: assets/img/create-pipeline/createPipelineBanner.png
 ---
 
 Today we're going to create our first pipeline, I have previously used pipelines but never tried to create one from scratch. So what's a pipeline anyway? A pipeline in software development is almost like an assembly line in a factory where each station or stop along the way adds something to the product. Likewise, in a software pipeline code moves through multiple stages like building, testing, and deploying, with each stage adding value or ensuring quality. Pipelines and Continuous Integration/Continuous Deployment (CI/CD) collaborate extremely well together to use automation and a structured framework for blending code and rolling out applications smoothly.
