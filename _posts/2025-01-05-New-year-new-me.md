@@ -3,7 +3,6 @@ layout: post
 title: "New Year new me?"
 categories: Blogging
 tags: [Linux, version control, servers, infrastructure, devops, leetcode, dsa, pipeline, system design, open source, books]
-image: assets/img/New-year-new-me/new-year-new-me.jpg
 ---
 As we begin a new year, it’s a great time to reflect on personal growth and set some fresh goals. This year, I’m focusing on building new skills, challenging myself, and staying consistent. Instead of just making a list and forgetting about it, I’m setting actionable goals to keep me on track and accountable.
 
